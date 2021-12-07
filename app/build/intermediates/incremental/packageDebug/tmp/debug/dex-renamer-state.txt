@@ -1,4 +1,4 @@
-#Tue Dec 07 14:05:06 CET 2021
+#Tue Dec 07 14:25:06 CET 2021
 base.2=C\:\\Users\\vtonc\\Documents\\kotlin\\DevBytes-starter\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
 path.2=classes2.dex
 base.1=C\:\\Users\\vtonc\\Documents\\kotlin\\DevBytes-starter\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
